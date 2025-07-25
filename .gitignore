@@ -1,0 +1,6 @@
+__pycache__/
+*.pth
+
+*.tar.gz
+*.ipynb_checkpoints/
+segmentation/
